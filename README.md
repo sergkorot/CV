@@ -1,1 +1,1 @@
-# CV
+https://sergkorot.github.io/CV/
