@@ -8,3 +8,4 @@ Other projects:
 - [maket-pizza](https://sergkorot.github.io/maket-pizza/)  
 - [maket-enCode](https://sergkorot.github.io/maket-enCode/)
 - [Custom-Video-Player](https://sergkorot.github.io/Custom-Video-Player/)    
+- [Tic-tac-toe-for-speech-therapy](https://sergkorot.github.io/tic-tac-toe-for-speech-therapy/)    
